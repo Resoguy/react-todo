@@ -1,0 +1,16 @@
+.userLink {
+    border: 1px solid slategray;
+    padding: 20px;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+    transition: 150ms;
+    margin: 10px 0;
+    text-decoration: none;
+    color: slategray;
+}
+
+.userLink:hover {
+    background-color: seashell;
+    color: #000;
+}
